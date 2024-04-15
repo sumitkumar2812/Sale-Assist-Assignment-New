@@ -1,0 +1,85 @@
+.navbar-container{
+    padding-bottom: 20px;
+}
+.navbar{
+    width: 1280px;
+    height: 105px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.navbar-nav{
+    color: rgba(229, 223, 217, 1);
+    
+}
+
+
+.main-logo{
+    color: rgba(229, 223, 217, 1);
+    font-size: larger;
+    font-weight: 400;
+    padding-left: 20px;
+}
+
+.navitem{
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.icons{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 40px;
+    
+}
+.difference{
+    width: 24px;
+    height: 24px;
+    top: 21px;
+    left: 1093px;
+    padding: 10px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.nav-item{
+    list-style-type: none;
+}
+
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-bars{
+    display: none;
+}
+.navbar-links{
+    display: flex;
+    flex-direction: row;
+
+}
+
+@media (max-width:992px) {
+    .navbar-links{
+        display: none;
+    }
+    .navbar-bars{
+        display: inline;
+    }
+    .navbar{
+        width: auto;
+        height: 105px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+
+}

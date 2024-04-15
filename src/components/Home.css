@@ -1,0 +1,32 @@
+.main-background{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 180vh;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+
+
+.category-heading{
+    width: Hug (151px)px;
+    height: Hug (20px)px;
+    top: 299px;
+    left: 32px;
+    gap: 8px;
+    opacity: 0px;
+    padding-left: 38px;
+    padding-bottom: 20px;
+
+}
+
+@media (max-width:992px){
+    .main-background{
+        flex-wrap: wrap;
+        display: flex;
+        width: auto;
+        flex-direction: row;
+        justify-content: center;
+    }
+    
+}
