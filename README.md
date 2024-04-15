@@ -16,9 +16,6 @@ You may also see any lint errors in the console.
 
 ### Project Overview
 
-# E-Commerce App
-
-![E-Commerce App Logo](e-commerce-logo.png)
 
 ## Overview
 
@@ -48,7 +45,7 @@ The E-Commerce App is a web-based platform designed to facilitate online shoppin
 1. Clone the repository:
 
    ```bash
-   git clone (https://github.com/sumitkumar2812/Sale-Assist-Assignment)
+   git clone (https://github.com/sumitkumar2812/Sale-Assist-Assignment-New)
    ```
 
 2. Install dependencies:
@@ -72,4 +69,4 @@ The E-Commerce App is a web-based platform designed to facilitate online shoppin
 
 7. Deployed Link of Netlify
 
-   `https://ecommerceappsumit.netlify.app`.
+   `(https://saleassistsumitproject.netlify.app)`.
